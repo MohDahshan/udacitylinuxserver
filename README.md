@@ -5,9 +5,9 @@
 	port: 2200
 ```
 ## ii. The complete URL to the hosted web application.
-```
+
 	[Item Catalog Website](http://104.198.58.132/)
-```
+
 ## iii. A summary of software installed and configuration changes made.
 
 #### 1. Launch Virtual Machine and SSH into the server.
